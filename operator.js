@@ -40,6 +40,9 @@ false  false  false
 // oper  result
 // true    false
 // fasle   true
-
+/*let a=10;
+let b=20;
+if !(a<b);
+console.log(false)*/
 
 
